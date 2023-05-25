@@ -21,7 +21,7 @@
 
         if($Resultado){
             echo"<script language='javaScript'>
-            alert('Se Guradaron los datos correctamente');
+            alert('Se Guardaron los datos correctamente');
             location.assign('Index.php');
             </script>";
 
